@@ -1,5 +1,9 @@
-# mastering-git-web
-
-This repository houses a proposed website for the Mastering Git book.
-
-Contact: mwkoo@sogang.ac.kr
+# 캡스톤디자인I 프로젝트
+## 개요
+사람들이 스마트폰으로 사진을 찍을 때 앱을 통해 사진을 보정하고 꾸미는 모습들을 자주 볼 수 있다.
+이러한 보정을 앱이 알아서 전부 해준다면 어떨까?
+## 목표
+이미지 보정을 자동으로 해주는 어플리케이션
+## 상세
+풍경, 셀카, 단체사진 등 이미지의 여러 형태를 분류하고, 이에 맞게 대다수의 통계 및 개인의 경향을 학습한다.
+이를 기반으로 주어진 이미지를 분석하여 자동으로 보정해줄 수 있게 한다.
